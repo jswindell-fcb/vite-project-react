@@ -1,0 +1,9 @@
+{
+  "firstName": "person's first name",
+  "lastName": "person's last name",
+  "address": {
+    "street1": "123 main street",
+    "street2": "apt 123",
+    "city": "main city"
+  }
+}
